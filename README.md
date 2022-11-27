@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sherbill2005
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python, django
 - 💞️ I’m looking to collaborate on ... not decided yet
 - 📫 How to reach me ... sherbill2005@gmail.com
 
